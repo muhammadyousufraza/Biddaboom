@@ -1,0 +1,25 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.upload-form .elementor-field-type-upload input[type="file"]::file-selector-button {
+    border: 0px solid #CCC;
+    border-radius: 20px;
+    background-color: #0097b2 !important;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 700;
+	color: #fff !important;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 15px;
+}</style>
+<!-- end Simple Custom CSS and JS -->
